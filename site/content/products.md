@@ -1,5 +1,5 @@
 ---
-title: This be some Other Coffee 2
+title: This be some Other Coffee 3
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
