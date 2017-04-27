@@ -1,49 +1,69 @@
 ---
-title: This be some Other Coffee 3
+title: What we offer
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: What we offer
+heading: InfoButler™
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  The InfoButler™ is an exclusive digital service based on artificial
+  intelligence and pattern  recognition with a tremendous capacity to collect
+  and evaluate data from all relevant sources.  For the InfoButler™ less is
+  more, and based on your profile, it serves you with elegance and  accuracy,
+  completely fulfilling your tailored needs for information control across your 
+  business. It helps you stay ahead, it helps you stay in control and… best of
+  all – not  overloaded.
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: >-
+        ”Instead of manually collect data and use excel we now use InfoButler™
+        to automate
+
+
+        management reports in real time dashboards” ”We use InfoButler™ to
+        collect data to improve
+
+
+        and make our BI much more effective”
     - image: /img/illustrations/coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: >-
+        ”We generate automatic news flows that InfoButler™ helped personalise
+        for all our team 
+
+        members”
     - image: /img/illustrations/tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: >-
+        ”We use InfoButler™ to collect external data. We merge with internal
+        data and get much more 
+
+        customer insights”
     - image: /img/illustrations/meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: >-
+        ”We let InfoButler™ read all our inbound newsletters and sort them out
+        highlighting important topics”
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  description: >-
+    The InfoButler™ is an exclusive digital service based on artificial
+    intelligence and pattern
+
+
+    recognition with a tremendous capacity to collect and evaluate data from all
+    relevant sources.
+
+
+    For the InfoButler™ less is more, and based on your profile, it serves you
+    with elegance and
+
+
+    accuracy, completely fulfilling your tailored needs for information control
+    across your
+
+
+    business. It helps you stay ahead, it helps you stay in control and… best of
+    all – not
+
+
+    overloaded.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -99,5 +119,6 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
 
 
