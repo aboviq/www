@@ -1,7 +1,7 @@
 ---
 title: Our Team
-type: products
-page: /products.html
+type: team
+page: /team.html
 image: /img/placeholder-1.jpg
 heading: The Core Team
 description: 'Founders and core team of Aboviq:'

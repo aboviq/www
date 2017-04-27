@@ -1,0 +1,13 @@
+{{ partial "head" . }}
+{{ partial "nav" . }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+{{ partial "media-block" (dict "heading" .Params.heading "text" .Params.description)}}
+
+<div class="pb4">
+  {{ with .Params.employees }}
+    {{ partial "employee" . }}
+  {{ end }}
+</div>
+
+{{ partial "footer" . }}
