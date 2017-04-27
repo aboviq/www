@@ -1,7 +1,8 @@
 import React from "react";
 import CMS from "netlify-cms";
 
-import PostPreview from "./cms-preview-templates/post";
+// import TeamPreview from "./cms-preview-templates/team";
+// import EmployeePreview from "./cms-preview-templates/employee";
 import ProductsPreview from "./cms-preview-templates/products";
 
 
@@ -18,6 +19,7 @@ class ColorControl extends React.Component {
 }
 
 CMS.registerPreviewStyle("/css/main.css");
-CMS.registerPreviewTemplate("post", PostPreview);
+// CMS.registerPreviewTemplate("team", TeamPreview);
+// CMS.registerPreviewTemplate("employee", EmployeePreview);
 CMS.registerPreviewTemplate("products", ProductsPreview);
 CMS.registerWidget("color", ColorControl);

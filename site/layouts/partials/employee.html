@@ -1,0 +1,11 @@
+
+{{ range .people }}
+<div class="center mb3 ph3">
+	<blockquote class="bg-grey-1 primary pa3 mb3 br1 b mw6 center">
+    <h3 class="f3 b lh-title mb2">{{.name}}</h3>
+    <p>{{.email}}</p>
+    <h4>{{ .title }}</h4>
+    <h4>{{ .phone }}</h4>
+	</blockquote>
+</div>
+{{ end }}
