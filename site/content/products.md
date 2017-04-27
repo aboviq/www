@@ -2,7 +2,7 @@
 title: What we offer
 type: products
 page: /products.html
-image: /img/products/jumbotron.jpg
+image: /img/placeholder-1.jpg
 heading: InfoButler™
 description: >-
   The InfoButler™ is an exclusive digital service based on artificial
@@ -14,7 +14,7 @@ description: >-
   all – not  overloaded.
 intro:
   blurbs:
-    - image: /img/illustrations/coffee.svg
+    - image: /img/placeholder-1.jpg
       text: >-
         ”Instead of manually collect data and use excel we now use InfoButler™
         to automate
@@ -25,23 +25,23 @@ intro:
 
 
         and make our BI much more effective”
-    - image: /img/illustrations/coffee-gear.svg
+    - image: /img/placeholder-1.jpg
       text: >-
         ”We generate automatic news flows that InfoButler™ helped personalise
         for all our team 
 
         members”
-    - image: /img/illustrations/tutorials.svg
+    - image: /img/placeholder-1.jpg
       text: >-
         ”We use InfoButler™ to collect external data. We merge with internal
         data and get much more 
 
         customer insights”
-    - image: /img/illustrations/meeting-space.svg
+    - image: /img/placeholder-1.jpg
       text: >-
         ”We let InfoButler™ read all our inbound newsletters and sort them out
         highlighting important topics”
-  heading: What we offer
+  heading: InfoButler™
   description: >-
     The InfoButler™ is an exclusive digital service based on artificial
     intelligence and pattern
@@ -65,60 +65,60 @@ intro:
 
     overloaded.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: ''
+  description: ''
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: ''
     image: /img/products/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: ''
     image: /img/products/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: ''
     image: /img/products/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Jocke Carlstein
+    quote: Infobutler is awesome
+  - author: Svempa
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products/products-full-width.jpg
+      Not only is there an API, there is also a GUI which works on the computer,
+      phone or tablet!
+full_image: /img/placeholder-1.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: InfoButler™ SaaS API subscription
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    After the POC on InfoButler™ we can provide you with a subscription based,
+    tailored  solution and the API and control panel to use it, everything runs
+    in our cloud platform.  No installations, no need of internal IT-resources,
+    no frills.  You want help with your presentation layer on the web, in
+    mobile, in BI-tool or your  dashboard tool? No worries, we help you all the
+    way!
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Base services in the InfoButler Swiss-army knife
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - Automated e-mails covering your topics
+        - Automated Competitor Watch™
+        - If-this-then-that integration
       plan: Small
       price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+    - description: Tailored services. More data.
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - 2 GB of data
+        - Daytime support
+        - AI filtered data
       plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+      price: '99'
+    - description: >-
+        For premium support and adapted services, well be happy to solve your
+        problems.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Customized intelligence
+        - Guaranteed uptime
+        - 24/7 SLA
       plan: Custom
-      price: '?'
+      price: 399+
 ---
+
 
 
 
