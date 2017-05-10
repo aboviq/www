@@ -1,5 +1,5 @@
 ---
-title: What we offer
+title: Our Services
 type: products
 page: /products.html
 image: /img/placeholder-1.jpg
@@ -9,7 +9,7 @@ description: >-
   intelligence and pattern  recognition with a tremendous capacity to collect
   and evaluate data from all relevant sources.  For the InfoButler™ less is
   more, and based on your profile, it serves you with elegance and  accuracy,
-  completely fulfilling your tailored needs for information control across your 
+  completely fulfilling your tailored needs for information control across your
   business. It helps you stay ahead, it helps you stay in control and… best of
   all – not  overloaded.
 intro:
@@ -28,13 +28,13 @@ intro:
     - image: /img/placeholder-1.jpg
       text: >-
         ”We generate automatic news flows that InfoButler™ helped personalise
-        for all our team 
+        for all our team
 
         members”
     - image: /img/placeholder-1.jpg
       text: >-
         ”We use InfoButler™ to collect external data. We merge with internal
-        data and get much more 
+        data and get much more
 
         customer insights”
     - image: /img/placeholder-1.jpg
@@ -118,7 +118,3 @@ pricing:
       plan: Custom
       price: 399+
 ---
-
-
-
-

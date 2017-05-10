@@ -4,6 +4,10 @@
 
 {{ partial "jumbotron" (dict "imageUrl" "/img/home/jumbotron.jpg" "title" "Nice to have a Butler?" "subtitle" "Information overload? collecting external data?") }}
 
+{{ range $.Data.Pages.File }}
+  {{ printf "%#v" . }}
+{{ end}}
+
 {{ partial "blog" . }}
 
 {{ partial "footer" . }}
